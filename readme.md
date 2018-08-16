@@ -1,5 +1,8 @@
 ### Readme
 
+
+[![GitHub issues](https://img.shields.io/github/issues/Kelier/chameleon-filter.svg?style=popout-square)](https://github.com/Kelier/chameleon-filter/issues)
+
 checkout this css-filter.
 
 这是一款在线css滤镜，目前没有太有针对性的设计，只是一款简版实现。
