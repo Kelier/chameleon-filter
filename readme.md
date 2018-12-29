@@ -1,7 +1,7 @@
 ### Readme
 
 
-[![GitHub issues](https://img.shields.io/github/issues/Kelier/chameleon-filter.svg?style=popout-square)](https://github.com/Kelier/chameleon-filter/issues)
+[![GitHub issues](https://img.shields.io/github/issues/Kelier/chameleon-filter.svg?style=popout-square)](https://github.com/Kelier/chameleon-filter/issues) [![Greenkeeper badge](https://badges.greenkeeper.io/Kelier/chameleon-filter.svg)](https://greenkeeper.io/)
 
 checkout this css-filter.
 
