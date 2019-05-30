@@ -20,6 +20,6 @@
   "dependencies": {
     "animejs": "^2.2.0",
     "html2canvas": "^1.0.0-alpha.12",
-    "jquery": "^3.3.1"
+    "jquery": "^3.4.0"
   }
 }
